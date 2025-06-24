@@ -1,0 +1,9 @@
+{
+    "config": {
+        "disable-tls": true,
+        "secure-http": false,
+        "platform": {
+            "php": "7.4.0"
+        }
+    }
+} 
